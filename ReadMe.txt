@@ -23,8 +23,8 @@
 Элементы имеют следущие классы:
 
 Обёртка author--wrapper
-Текст author--name
-Имя author--name-link
+Текст author--text
+Имя author--name
 Обёртка иконок author--social-networks
 Обе иконки author--icon
 
