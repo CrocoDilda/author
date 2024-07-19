@@ -8,8 +8,8 @@ author.innerHTML = `
 	display: grid;
 	grid-auto-flow: column;
 	align-items: center;">
-	<p class="author--name" style="font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif">Developed by 
-		<span class="author--name-link" style="color: #551A8B;">CrocoDilda</span=>
+	<p class="author--text" style="font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif">Developed by 
+		<span class="author--name" style="color: #551A8B;">CrocoDilda</span=>
 	</p>
 	<div class="author--social-networks">
 		<a target="_blank" href="https://github.com/CrocoDilda" class="author--link" style="	
